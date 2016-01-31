@@ -139,10 +139,9 @@ def main():
     # corr('SibSp', 'Parch', data, 'corr_SibSp_Parch.txt')
 
     print('Most popular name task...')
-    mostPopularName('female', data, 'mostPopularName_female.txt')
+    # mostPopularName('female', data, 'mostPopularName_female.txt')
 
     print('Completed!')
-
 
 if __name__ == '__main__':
     main()
