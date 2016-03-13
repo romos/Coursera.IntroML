@@ -1,7 +1,8 @@
 *.txt
 *.out
 .idea
-
+.ipynb_checkpoints
+*.bz2
 
 ### Windows template
 # Windows image file caches
